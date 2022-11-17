@@ -1,0 +1,71 @@
+*{
+	margin: 0;
+	padding-inline: ;
+	font-family: 'poppins',sans-serif;
+    cursor: pointer;
+}
+body{
+	justify-content: right;
+	align-items: center;
+}
+button{
+	margin: 3% auto;
+	font-size: 15px;
+	background-color: rgb(252, 63, 6);
+	padding: 7;
+	border-color: rgba(230, 67, 8, 0.877);
+}
+body{
+	border-style: solid ;
+	border-width: 50px 50px;
+	border-color: skyblue;
+	border-bottom: 40;
+	border-right: hsl(182,80%,73%) 100%;
+}
+.hbag{
+	nav-left: 4px;
+	padding: 3%;
+}
+.cglass{
+	nav-left: 5px;
+	padding: 3%;
+}
+.choe{
+	nav-left: 5px;
+	padding: 3%;
+}
+.two{
+	nav-left: 3px;
+	padding: 1%;
+}
+.one{
+	nav-left: 5px;
+}
+.dg{
+	nav-left: 5px;
+	padding: 3%;
+}
+.nike{
+	nav-left: 5px;
+	padding: 3%;
+}
+.adidas{
+	nav-left: 5px;
+	padding: 3%;
+}
+.lv{
+	nav-left: 5px;
+	padding: 3%;
+}
+.rb{
+	nav-left: 5px;
+	padding: 3%;
+}
+.puma{
+	nav-left: 5px;
+	padding: 3%;
+}
+.all{
+	nav-left: 5px;
+	padding: 10%;
+}
